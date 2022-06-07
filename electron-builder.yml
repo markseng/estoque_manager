@@ -1,0 +1,29 @@
+appId: markseng@resute
+productName: Gerenciador de estoque
+copyright: Copyright © 2022 Felipe Marques
+directories:
+  output: dist
+  buildResources: resources
+linux: 
+  target: AppImage
+win:
+  target: nsis
+files: 
+  - from: .
+    filter:
+      - package.json
+      - app
+      - resources
+      - database
+      - node_modules
+      - code_scanner
+publish: 
+  provider: github
+  owner: markseng
+  repo: teste_auto_deploy
+  token: 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
+  publishAutoUpdate: true
+asarUnpack: 
+  - node_modules
+  - database
+

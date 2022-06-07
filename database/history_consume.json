@@ -1,0 +1,897 @@
+{
+  "history_consume": [
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 5,
+      "DATE": "2022-04-17T21:06:53.049Z",
+      "id": 1650242930952
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-17T22:40:44.036Z",
+      "id": 1650242930968
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T21:06:53.049Z",
+      "id": 1650242961778
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T22:40:44.036Z",
+      "id": 1650242961781
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T21:06:53.049Z",
+      "id": 1650242988379
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T22:40:44.036Z",
+      "id": 1650242988393
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T21:06:53.049Z",
+      "id": 1650242996919
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T22:40:44.036Z",
+      "id": 1650242996921
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T21:06:53.049Z",
+      "id": 1650243102059
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T22:40:44.036Z",
+      "id": 1650243102061
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T21:06:53.048Z",
+      "id": 1650243195981
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-17T22:40:44.035Z",
+      "id": 1650243195990
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 10,
+      "DATE": "2022-04-18T00:55:09.648Z",
+      "id": 1650243309648
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-18T00:55:09.648Z",
+      "id": 1650243309648
+    },
+    {
+      "ID_PRODUTO": 3,
+      "QUANTIDADE_ENTRADA": 20,
+      "DATE": "2022-04-18T00:55:09.649Z",
+      "id": 1650243309649
+    },
+    {
+      "ID_PRODUTO": 4,
+      "QUANTIDADE_ENTRADA": 25,
+      "DATE": "2022-04-18T00:55:09.649Z",
+      "id": 1650243309649
+    },
+    {
+      "ID_PRODUTO": 5,
+      "QUANTIDADE_ENTRADA": 30,
+      "DATE": "2022-04-18T00:55:09.649Z",
+      "id": 1650243309649
+    },
+    {
+      "ID_PRODUTO": 6,
+      "QUANTIDADE_ENTRADA": 35,
+      "DATE": "2022-04-18T00:55:09.649Z",
+      "id": 1650243309649
+    },
+    {
+      "ID_PRODUTO": 7,
+      "QUANTIDADE_ENTRADA": 40,
+      "DATE": "2022-04-18T00:55:09.649Z",
+      "id": 1650243309649
+    },
+    {
+      "ID_PRODUTO": 8,
+      "QUANTIDADE_ENTRADA": 45,
+      "DATE": "2022-04-18T00:55:09.650Z",
+      "id": 1650243309650
+    },
+    {
+      "ID_PRODUTO": 9,
+      "QUANTIDADE_ENTRADA": 50,
+      "DATE": "2022-04-18T00:55:09.650Z",
+      "id": 1650243309650
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 55,
+      "DATE": "2022-04-18T00:55:09.650Z",
+      "id": 1650243309650
+    },
+    {
+      "ID_PRODUTO": 11,
+      "QUANTIDADE_ENTRADA": 60,
+      "DATE": "2022-04-18T00:55:09.650Z",
+      "id": 1650243309650
+    },
+    {
+      "ID_PRODUTO": 12,
+      "QUANTIDADE_ENTRADA": 65,
+      "DATE": "2022-04-18T00:55:09.650Z",
+      "id": 1650243309650
+    },
+    {
+      "ID_PRODUTO": 13,
+      "QUANTIDADE_ENTRADA": 70,
+      "DATE": "2022-04-18T00:55:09.651Z",
+      "id": 1650243309651
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 10,
+      "DATE": "2022-04-18T00:55:32.703Z",
+      "id": 1650243332704
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-18T00:55:32.704Z",
+      "id": 1650243332704
+    },
+    {
+      "ID_PRODUTO": 3,
+      "QUANTIDADE_ENTRADA": 20,
+      "DATE": "2022-04-18T00:55:32.704Z",
+      "id": 1650243332705
+    },
+    {
+      "ID_PRODUTO": 4,
+      "QUANTIDADE_ENTRADA": 25,
+      "DATE": "2022-04-18T00:55:32.705Z",
+      "id": 1650243332705
+    },
+    {
+      "ID_PRODUTO": 5,
+      "QUANTIDADE_ENTRADA": 30,
+      "DATE": "2022-04-18T00:55:32.706Z",
+      "id": 1650243332706
+    },
+    {
+      "ID_PRODUTO": 6,
+      "QUANTIDADE_ENTRADA": 35,
+      "DATE": "2022-04-18T00:55:32.707Z",
+      "id": 1650243332707
+    },
+    {
+      "ID_PRODUTO": 7,
+      "QUANTIDADE_ENTRADA": 40,
+      "DATE": "2022-04-18T00:55:32.707Z",
+      "id": 1650243332707
+    },
+    {
+      "ID_PRODUTO": 8,
+      "QUANTIDADE_ENTRADA": 45,
+      "DATE": "2022-04-18T00:55:32.708Z",
+      "id": 1650243332708
+    },
+    {
+      "ID_PRODUTO": 9,
+      "QUANTIDADE_ENTRADA": 50,
+      "DATE": "2022-04-18T00:55:32.708Z",
+      "id": 1650243332708
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 55,
+      "DATE": "2022-04-18T00:55:32.709Z",
+      "id": 1650243332709
+    },
+    {
+      "ID_PRODUTO": 11,
+      "QUANTIDADE_ENTRADA": 60,
+      "DATE": "2022-04-18T00:55:32.709Z",
+      "id": 1650243332709
+    },
+    {
+      "ID_PRODUTO": 12,
+      "QUANTIDADE_ENTRADA": 65,
+      "DATE": "2022-04-18T00:55:32.709Z",
+      "id": 1650243332709
+    },
+    {
+      "ID_PRODUTO": 13,
+      "QUANTIDADE_ENTRADA": 70,
+      "DATE": "2022-04-18T00:55:32.710Z",
+      "id": 1650243332710
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T00:55:09.640Z",
+      "id": 1650243344948
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T00:55:32.698Z",
+      "id": 1650243344952
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 10,
+      "DATE": "2022-04-18T01:01:18.549Z",
+      "id": 1650243678549
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-18T01:01:18.549Z",
+      "id": 1650243678549
+    },
+    {
+      "ID_PRODUTO": 3,
+      "QUANTIDADE_ENTRADA": 20,
+      "DATE": "2022-04-18T01:01:18.549Z",
+      "id": 1650243678549
+    },
+    {
+      "ID_PRODUTO": 4,
+      "QUANTIDADE_ENTRADA": 25,
+      "DATE": "2022-04-18T01:01:18.549Z",
+      "id": 1650243678550
+    },
+    {
+      "ID_PRODUTO": 5,
+      "QUANTIDADE_ENTRADA": 30,
+      "DATE": "2022-04-18T01:01:18.550Z",
+      "id": 1650243678550
+    },
+    {
+      "ID_PRODUTO": 6,
+      "QUANTIDADE_ENTRADA": 35,
+      "DATE": "2022-04-18T01:01:18.550Z",
+      "id": 1650243678550
+    },
+    {
+      "ID_PRODUTO": 7,
+      "QUANTIDADE_ENTRADA": 40,
+      "DATE": "2022-04-18T01:01:18.550Z",
+      "id": 1650243678550
+    },
+    {
+      "ID_PRODUTO": 8,
+      "QUANTIDADE_ENTRADA": 45,
+      "DATE": "2022-04-18T01:01:18.551Z",
+      "id": 1650243678551
+    },
+    {
+      "ID_PRODUTO": 9,
+      "QUANTIDADE_ENTRADA": 50,
+      "DATE": "2022-04-18T01:01:18.551Z",
+      "id": 1650243678551
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 55,
+      "DATE": "2022-04-18T01:01:18.552Z",
+      "id": 1650243678552
+    },
+    {
+      "ID_PRODUTO": 11,
+      "QUANTIDADE_ENTRADA": 60,
+      "DATE": "2022-04-18T01:01:18.552Z",
+      "id": 1650243678552
+    },
+    {
+      "ID_PRODUTO": 12,
+      "QUANTIDADE_ENTRADA": 65,
+      "DATE": "2022-04-18T01:01:18.552Z",
+      "id": 1650243678552
+    },
+    {
+      "ID_PRODUTO": 13,
+      "QUANTIDADE_ENTRADA": 70,
+      "DATE": "2022-04-18T01:01:18.552Z",
+      "id": 1650243678552
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 10,
+      "DATE": "2022-04-18T01:02:57.103Z",
+      "id": 1650243777104
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-18T01:02:57.104Z",
+      "id": 1650243777105
+    },
+    {
+      "ID_PRODUTO": 3,
+      "QUANTIDADE_ENTRADA": 20,
+      "DATE": "2022-04-18T01:02:57.105Z",
+      "id": 1650243777106
+    },
+    {
+      "ID_PRODUTO": 4,
+      "QUANTIDADE_ENTRADA": 25,
+      "DATE": "2022-04-18T01:02:57.106Z",
+      "id": 1650243777106
+    },
+    {
+      "ID_PRODUTO": 5,
+      "QUANTIDADE_ENTRADA": 30,
+      "DATE": "2022-04-18T01:02:57.107Z",
+      "id": 1650243777107
+    },
+    {
+      "ID_PRODUTO": 6,
+      "QUANTIDADE_ENTRADA": 35,
+      "DATE": "2022-04-18T01:02:57.107Z",
+      "id": 1650243777108
+    },
+    {
+      "ID_PRODUTO": 7,
+      "QUANTIDADE_ENTRADA": 40,
+      "DATE": "2022-04-18T01:02:57.108Z",
+      "id": 1650243777108
+    },
+    {
+      "ID_PRODUTO": 8,
+      "QUANTIDADE_ENTRADA": 45,
+      "DATE": "2022-04-18T01:02:57.109Z",
+      "id": 1650243777109
+    },
+    {
+      "ID_PRODUTO": 9,
+      "QUANTIDADE_ENTRADA": 50,
+      "DATE": "2022-04-18T01:02:57.110Z",
+      "id": 1650243777110
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 55,
+      "DATE": "2022-04-18T01:02:57.110Z",
+      "id": 1650243777111
+    },
+    {
+      "ID_PRODUTO": 11,
+      "QUANTIDADE_ENTRADA": 60,
+      "DATE": "2022-04-18T01:02:57.111Z",
+      "id": 1650243777111
+    },
+    {
+      "ID_PRODUTO": 12,
+      "QUANTIDADE_ENTRADA": 65,
+      "DATE": "2022-04-18T01:02:57.112Z",
+      "id": 1650243777112
+    },
+    {
+      "ID_PRODUTO": 13,
+      "QUANTIDADE_ENTRADA": 70,
+      "DATE": "2022-04-18T01:02:57.112Z",
+      "id": 1650243777113
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 10,
+      "DATE": "2022-04-18T01:04:35.765Z",
+      "id_db": "9ba254af-22ce-4f76-b6d1-c81a17294260",
+      "id": 1650243875765
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-18T01:04:35.766Z",
+      "id_db": "cbb91635-537e-4413-9993-57ba51ef1852",
+      "id": 1650243875766
+    },
+    {
+      "ID_PRODUTO": 3,
+      "QUANTIDADE_ENTRADA": 20,
+      "DATE": "2022-04-18T01:04:35.766Z",
+      "id_db": "b2668c46-6575-4765-8a83-d68374a86848",
+      "id": 1650243875767
+    },
+    {
+      "ID_PRODUTO": 4,
+      "QUANTIDADE_ENTRADA": 25,
+      "DATE": "2022-04-18T01:04:35.767Z",
+      "id_db": "b9db1d53-16d8-491e-8f74-2d13a3b29fd6",
+      "id": 1650243875767
+    },
+    {
+      "ID_PRODUTO": 5,
+      "QUANTIDADE_ENTRADA": 30,
+      "DATE": "2022-04-18T01:04:35.768Z",
+      "id_db": "469064ed-1e29-4be8-bf4a-c389198afd0e",
+      "id": 1650243875769
+    },
+    {
+      "ID_PRODUTO": 6,
+      "QUANTIDADE_ENTRADA": 35,
+      "DATE": "2022-04-18T01:04:35.769Z",
+      "id_db": "233bb777-7d68-4091-9400-568ff8a943f7",
+      "id": 1650243875769
+    },
+    {
+      "ID_PRODUTO": 7,
+      "QUANTIDADE_ENTRADA": 40,
+      "DATE": "2022-04-18T01:04:35.770Z",
+      "id_db": "4882e31b-6ee6-4e75-929c-3af92b44bb1d",
+      "id": 1650243875770
+    },
+    {
+      "ID_PRODUTO": 8,
+      "QUANTIDADE_ENTRADA": 45,
+      "DATE": "2022-04-18T01:04:35.771Z",
+      "id_db": "1a9ab7a6-ec80-484d-b0c8-3e4cd5757d7d",
+      "id": 1650243875771
+    },
+    {
+      "ID_PRODUTO": 9,
+      "QUANTIDADE_ENTRADA": 50,
+      "DATE": "2022-04-18T01:04:35.772Z",
+      "id_db": "7f9667e3-6fae-47a7-9ffc-b4bfc0ef4067",
+      "id": 1650243875772
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 55,
+      "DATE": "2022-04-18T01:04:35.772Z",
+      "id_db": "9208dec5-d8e1-49c8-bd17-386d4b2bee8a",
+      "id": 1650243875773
+    },
+    {
+      "ID_PRODUTO": 11,
+      "QUANTIDADE_ENTRADA": 60,
+      "DATE": "2022-04-18T01:04:35.773Z",
+      "id_db": "832c9a79-89af-47c5-908f-b3a5826efb51",
+      "id": 1650243875773
+    },
+    {
+      "ID_PRODUTO": 12,
+      "QUANTIDADE_ENTRADA": 65,
+      "DATE": "2022-04-18T01:04:35.774Z",
+      "id_db": "9f96380e-9188-4b6d-901c-e1565e74720f",
+      "id": 1650243875774
+    },
+    {
+      "ID_PRODUTO": 13,
+      "QUANTIDADE_ENTRADA": 70,
+      "DATE": "2022-04-18T01:04:35.775Z",
+      "id_db": "448e595b-8f56-4108-9c92-f91fac53e57a",
+      "id": 1650243875775
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:04:35.752Z",
+      "id_db": "c3c1bf58-efcc-4d7e-8c4f-2239d2fe55b6",
+      "id": 1650243958529
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:04:35.752Z",
+      "id_db": "4659f475-ebee-46d5-8dfb-e1acbdf8c8ee",
+      "id": 1650244069049
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 10,
+      "DATE": "2022-04-18T01:04:35.753Z",
+      "id_db": "adb4effa-ed2b-4ba4-bf73-703ea7b14d49",
+      "id": 1650244107259
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 7,
+      "DATE": "2022-04-18T01:04:35.753Z",
+      "id_db": "7da842c8-870b-4568-9d21-dbd5dd260e7b",
+      "id": 1650244112828
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:04:35.753Z",
+      "id_db": "842bb8d7-3716-4366-a736-1387f1dc0b69",
+      "id": 1650244119479
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 50,
+      "DATE": "2022-04-18T01:04:35.763Z",
+      "id_db": "b286a845-72dd-4015-8446-a63135af976f",
+      "id": 1650244140231
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 20,
+      "DATE": "2022-04-18T01:04:35.763Z",
+      "id_db": "56413169-3f8f-4be2-860d-2da17332a402",
+      "id": 1650244150076
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 10,
+      "DATE": "2022-04-18T01:09:17.955Z",
+      "id_db": "49b0291e-66ce-45a6-aa00-d8940fbdb752",
+      "id": 1650244157956
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-18T01:09:17.956Z",
+      "id_db": "1c998b1c-5861-4c0f-a81e-15993d55dc4d",
+      "id": 1650244157956
+    },
+    {
+      "ID_PRODUTO": 3,
+      "QUANTIDADE_ENTRADA": 20,
+      "DATE": "2022-04-18T01:09:17.957Z",
+      "id_db": "85e1276e-34a0-4ecf-bbf2-17486d6d298a",
+      "id": 1650244157957
+    },
+    {
+      "ID_PRODUTO": 4,
+      "QUANTIDADE_ENTRADA": 25,
+      "DATE": "2022-04-18T01:09:17.957Z",
+      "id_db": "d8f277cc-ff15-441d-a857-ea5eb591caf1",
+      "id": 1650244157958
+    },
+    {
+      "ID_PRODUTO": 5,
+      "QUANTIDADE_ENTRADA": 30,
+      "DATE": "2022-04-18T01:09:17.958Z",
+      "id_db": "44cc1a69-29bf-463d-9e4a-5b64322a04d2",
+      "id": 1650244157958
+    },
+    {
+      "ID_PRODUTO": 6,
+      "QUANTIDADE_ENTRADA": 35,
+      "DATE": "2022-04-18T01:09:17.959Z",
+      "id_db": "7941014c-01cc-4ea2-96f0-dccd865468b7",
+      "id": 1650244157959
+    },
+    {
+      "ID_PRODUTO": 7,
+      "QUANTIDADE_ENTRADA": 40,
+      "DATE": "2022-04-18T01:09:17.959Z",
+      "id_db": "474f8f5b-382c-4fce-9c9c-cdf28708322c",
+      "id": 1650244157960
+    },
+    {
+      "ID_PRODUTO": 8,
+      "QUANTIDADE_ENTRADA": 45,
+      "DATE": "2022-04-18T01:09:17.960Z",
+      "id_db": "3ac158a0-0920-4c10-ae08-8bbe495184b3",
+      "id": 1650244157960
+    },
+    {
+      "ID_PRODUTO": 9,
+      "QUANTIDADE_ENTRADA": 50,
+      "DATE": "2022-04-18T01:09:17.961Z",
+      "id_db": "149c1b71-d631-4f0a-9c19-920e09b43953",
+      "id": 1650244157961
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 55,
+      "DATE": "2022-04-18T01:09:17.962Z",
+      "id_db": "e8c5184e-c3ae-45c2-82a5-57512ef1faa7",
+      "id": 1650244157962
+    },
+    {
+      "ID_PRODUTO": 11,
+      "QUANTIDADE_ENTRADA": 60,
+      "DATE": "2022-04-18T01:09:17.962Z",
+      "id_db": "e6b8da1d-591a-4949-a584-9573b5a7e7dd",
+      "id": 1650244157963
+    },
+    {
+      "ID_PRODUTO": 12,
+      "QUANTIDADE_ENTRADA": 65,
+      "DATE": "2022-04-18T01:09:17.963Z",
+      "id_db": "2f61e0dc-02c7-442f-9bf3-5bed7f872bdc",
+      "id": 1650244157963
+    },
+    {
+      "ID_PRODUTO": 13,
+      "QUANTIDADE_ENTRADA": 70,
+      "DATE": "2022-04-18T01:09:17.964Z",
+      "id_db": "4ff65e54-e249-4a8d-bc5a-c6c98a09be55",
+      "id": 1650244157964
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:04:35.763Z",
+      "id_db": "0ef4eb57-4eb8-41c4-bd13-9c45a21c4412",
+      "id": 1650244170579
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:09:17.953Z",
+      "id_db": "67005d82-52ab-4f9b-aa44-453eb9856510",
+      "id": 1650244170584
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:04:35.753Z",
+      "id_db": "65c7454c-f4ea-413c-8e74-a8f7b6575131",
+      "id": 1650244192669
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 1,
+      "DATE": "2022-04-18T01:09:17.948Z",
+      "id_db": "5bec68d2-e128-4d0d-a237-c86109a490a4",
+      "id": 1650244192674
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:04:35.753Z",
+      "id_db": "b30b91cf-e851-4be1-8ebb-2f3342da67fd",
+      "id": 1650244221754
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:09:17.948Z",
+      "id_db": "5d58ead6-ccd2-40af-be3c-fc6a877843f0",
+      "id": 1650244221759
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:04:35.752Z",
+      "id_db": "fe0e5920-50f2-4b61-b3d6-9ab53a03c7b8",
+      "id": 1650246268679
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:09:17.947Z",
+      "id_db": "df04776c-832d-4219-9f51-f0db8096f692",
+      "id": 1650246268691
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 10,
+      "DATE": "2022-04-18T21:46:00.512Z",
+      "id_db": "9c167bec-3771-4321-8194-005f42b8a40f",
+      "id": 1650318360512
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-18T21:46:00.513Z",
+      "id_db": "cc42a382-a717-48a8-bed1-b6d771287c91",
+      "id": 1650318360514
+    },
+    {
+      "ID_PRODUTO": 3,
+      "QUANTIDADE_ENTRADA": 20,
+      "DATE": "2022-04-18T21:46:00.514Z",
+      "id_db": "801e12fd-df5c-4ca3-b892-fe91efc3e629",
+      "id": 1650318360515
+    },
+    {
+      "ID_PRODUTO": 4,
+      "QUANTIDADE_ENTRADA": 25,
+      "DATE": "2022-04-18T21:46:00.515Z",
+      "id_db": "0068be04-5176-4997-a907-19088e5ce7cd",
+      "id": 1650318360516
+    },
+    {
+      "ID_PRODUTO": 5,
+      "QUANTIDADE_ENTRADA": 30,
+      "DATE": "2022-04-18T21:46:00.517Z",
+      "id_db": "03f4b269-e09d-4d18-99e7-74dc3d70f97a",
+      "id": 1650318360517
+    },
+    {
+      "ID_PRODUTO": 6,
+      "QUANTIDADE_ENTRADA": 35,
+      "DATE": "2022-04-18T21:46:00.518Z",
+      "id_db": "66fcdefb-781e-43a8-b3c3-357caee09ccc",
+      "id": 1650318360518
+    },
+    {
+      "ID_PRODUTO": 7,
+      "QUANTIDADE_ENTRADA": 40,
+      "DATE": "2022-04-18T21:46:00.518Z",
+      "id_db": "f2de93c0-718f-4aae-9e9a-ce8bf36549dc",
+      "id": 1650318360519
+    },
+    {
+      "ID_PRODUTO": 8,
+      "QUANTIDADE_ENTRADA": 45,
+      "DATE": "2022-04-18T21:46:00.519Z",
+      "id_db": "39ee2c72-a900-48af-9383-5cb8afc4b46b",
+      "id": 1650318360520
+    },
+    {
+      "ID_PRODUTO": 9,
+      "QUANTIDADE_ENTRADA": 50,
+      "DATE": "2022-04-18T21:46:00.520Z",
+      "id_db": "dc08fe2a-add9-4965-8da2-d89a2d7b917e",
+      "id": 1650318360521
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 55,
+      "DATE": "2022-04-18T21:46:00.521Z",
+      "id_db": "b8c5fa49-ff26-423c-9a10-f854f999d784",
+      "id": 1650318360522
+    },
+    {
+      "ID_PRODUTO": 11,
+      "QUANTIDADE_ENTRADA": 60,
+      "DATE": "2022-04-18T21:46:00.522Z",
+      "id_db": "e4872aa1-f8ba-437a-8938-b6accb61a9b9",
+      "id": 1650318360523
+    },
+    {
+      "ID_PRODUTO": 12,
+      "QUANTIDADE_ENTRADA": 65,
+      "DATE": "2022-04-18T21:46:00.523Z",
+      "id_db": "6da8d3dd-f4a7-4ca5-8081-8c4e17338c49",
+      "id": 1650318360524
+    },
+    {
+      "ID_PRODUTO": 13,
+      "QUANTIDADE_ENTRADA": 70,
+      "DATE": "2022-04-18T21:46:00.524Z",
+      "id_db": "8f8f44f9-157c-4dc1-9f5e-9fc8b3a64fd1",
+      "id": 1650318360525
+    },
+    {
+      "ID_PRODUTO": 1,
+      "QUANTIDADE_ENTRADA": 10,
+      "DATE": "2022-04-18T21:52:03.127Z",
+      "id_db": "b0514525-a783-482e-9191-a17d9f5c16ca",
+      "id": 1650318723127
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-18T21:52:03.128Z",
+      "id_db": "0836b8c3-68ba-422f-94b2-f4066ccb4aac",
+      "id": 1650318723128
+    },
+    {
+      "ID_PRODUTO": 3,
+      "QUANTIDADE_ENTRADA": 20,
+      "DATE": "2022-04-18T21:52:03.129Z",
+      "id_db": "ce059ea8-f052-4f83-8250-1a64b88335a5",
+      "id": 1650318723129
+    },
+    {
+      "ID_PRODUTO": 4,
+      "QUANTIDADE_ENTRADA": 25,
+      "DATE": "2022-04-18T21:52:03.129Z",
+      "id_db": "9ebe176f-2792-4e82-9a48-93b9b0c4be86",
+      "id": 1650318723130
+    },
+    {
+      "ID_PRODUTO": 5,
+      "QUANTIDADE_ENTRADA": 30,
+      "DATE": "2022-04-18T21:52:03.130Z",
+      "id_db": "3f2c4b46-3998-47a1-ad72-44e8b68b46db",
+      "id": 1650318723131
+    },
+    {
+      "ID_PRODUTO": 6,
+      "QUANTIDADE_ENTRADA": 35,
+      "DATE": "2022-04-18T21:52:03.131Z",
+      "id_db": "059aed95-d5e2-427f-8cf3-efa3ab343a31",
+      "id": 1650318723132
+    },
+    {
+      "ID_PRODUTO": 7,
+      "QUANTIDADE_ENTRADA": 40,
+      "DATE": "2022-04-18T21:52:03.132Z",
+      "id_db": "420d2f58-8391-453d-a1df-01f28befe5d4",
+      "id": 1650318723133
+    },
+    {
+      "ID_PRODUTO": 8,
+      "QUANTIDADE_ENTRADA": 45,
+      "DATE": "2022-04-18T21:52:03.133Z",
+      "id_db": "1cf2a6a3-734f-4fbe-a3aa-1300233e4e97",
+      "id": 1650318723134
+    },
+    {
+      "ID_PRODUTO": 9,
+      "QUANTIDADE_ENTRADA": 50,
+      "DATE": "2022-04-18T21:52:03.134Z",
+      "id_db": "2362f790-7b29-49d9-be78-8849af878dd6",
+      "id": 1650318723135
+    },
+    {
+      "ID_PRODUTO": 10,
+      "QUANTIDADE_ENTRADA": 55,
+      "DATE": "2022-04-18T21:52:03.135Z",
+      "id_db": "98f2003c-8fef-4d38-af8c-eee801169767",
+      "id": 1650318723136
+    },
+    {
+      "ID_PRODUTO": 11,
+      "QUANTIDADE_ENTRADA": 60,
+      "DATE": "2022-04-18T21:52:03.136Z",
+      "id_db": "b170ceb8-5ae5-457d-8a7d-7e8886878b62",
+      "id": 1650318723137
+    },
+    {
+      "ID_PRODUTO": 12,
+      "QUANTIDADE_ENTRADA": 65,
+      "DATE": "2022-04-18T21:52:03.137Z",
+      "id_db": "208ffa80-8774-449c-8a32-f6aeffd70029",
+      "id": 1650318723138
+    },
+    {
+      "ID_PRODUTO": 13,
+      "QUANTIDADE_ENTRADA": 70,
+      "DATE": "2022-04-18T21:52:03.138Z",
+      "id_db": "6c6d1e23-f8f1-4760-a38d-3cc5d9d1352c",
+      "id": 1650318723139
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:04:35.753Z",
+      "id_db": "6a877f62-ea2b-4c41-b7ed-080f7d946a32",
+      "id": 1650318747091
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 0,
+      "DATE": "2022-04-18T01:09:17.948Z",
+      "id_db": "b49598ac-7eb3-4e29-b96e-e9e63b6bdccf",
+      "id": 1650318747102
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 5,
+      "DATE": "2022-04-18T21:46:00.501Z",
+      "id_db": "38c4ca4c-3afd-4fde-b0fd-4bd81b4c7336",
+      "id": 1650318747112
+    },
+    {
+      "ID_PRODUTO": 2,
+      "QUANTIDADE_ENTRADA": 15,
+      "DATE": "2022-04-18T21:52:03.117Z",
+      "id_db": "509a5def-80df-4438-9226-03191269a4ba",
+      "id": 1650318747123
+    }
+  ]
+}

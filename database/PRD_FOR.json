@@ -1,0 +1,916 @@
+{
+  "PRD_FOR": [
+    {
+      "CD_PRODUTO": 1,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 49,
+      "id_db": "3f7e648d-2fb8-4e30-ab7e-f86f46b5464e",
+      "id": 1650762676591
+    },
+    {
+      "CD_PRODUTO": 1,
+      "CD_FORNCEDOR": 6,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 49,
+      "id_db": "72ab0b55-71e6-48e0-b5e1-3c6b09e218d9",
+      "id": 1650762676595
+    },
+    {
+      "CD_PRODUTO": 2,
+      "CD_FORNCEDOR": 6,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 41,
+      "id_db": "0aaaf0b8-5182-41e2-af34-3f7190c22e36",
+      "id": 1650762676596
+    },
+    {
+      "CD_PRODUTO": 2,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 40,
+      "id_db": "e0658759-cf5e-4288-9ac7-6e241ddb37b1",
+      "id": 1650762676596
+    },
+    {
+      "CD_PRODUTO": 2,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 39,
+      "id_db": "0c984009-d5e3-41de-a3a2-179f9b277613",
+      "id": 1650762676596
+    },
+    {
+      "CD_PRODUTO": 2,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F4",
+      "VALOR_UNITARIO": 35,
+      "id_db": "a3292ed0-a464-447e-b078-bc52bdb3699a",
+      "id": 1650762676597
+    },
+    {
+      "CD_PRODUTO": 3,
+      "CD_FORNCEDOR": 6,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 14,
+      "id_db": "b2bc196e-b8d7-4fd6-916c-5aec32ee7b54",
+      "id": 1650762676597
+    },
+    {
+      "CD_PRODUTO": 3,
+      "CD_FORNCEDOR": 9,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 39,
+      "id_db": "b3a224a9-1bf2-4a0f-8ae4-9c5301c4589f",
+      "id": 1650762676597
+    },
+    {
+      "CD_PRODUTO": 3,
+      "CD_FORNCEDOR": 6,
+      "DS_PRODUTO_FORNECEDOR": "DESC F4",
+      "VALOR_UNITARIO": 29,
+      "id_db": "0052a1e2-5730-4f4e-92bc-40078a9f2ea3",
+      "id": 1650762676597
+    },
+    {
+      "CD_PRODUTO": 3,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 41,
+      "id_db": "7f68f36d-1b72-4989-a371-e64d314bd351",
+      "id": 1650762676598
+    },
+    {
+      "CD_PRODUTO": 4,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 25,
+      "id_db": "c3b27d14-abb9-4e9b-a800-354d816beddd",
+      "id": 1650762676598
+    },
+    {
+      "CD_PRODUTO": 4,
+      "CD_FORNCEDOR": 9,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 41,
+      "id_db": "ec77d99a-c01a-4c56-affd-ca1fa2ffb1e6",
+      "id": 1650762676598
+    },
+    {
+      "CD_PRODUTO": 4,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 46,
+      "id_db": "d09e6170-c6d7-4b41-a3e0-8d6cf0193ac7",
+      "id": 1650762676599
+    },
+    {
+      "CD_PRODUTO": 4,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 37,
+      "id_db": "6abd2cf2-794b-4cf3-8a66-16dc0534759d",
+      "id": 1650762676599
+    },
+    {
+      "CD_PRODUTO": 5,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 29,
+      "id_db": "78414ca6-7d73-40a4-bd4d-d5477a3a0acc",
+      "id": 1650762676600
+    },
+    {
+      "CD_PRODUTO": 5,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 23,
+      "id_db": "f0ad2df3-06b0-4a08-8dce-27d18c1193c8",
+      "id": 1650762676600
+    },
+    {
+      "CD_PRODUTO": 5,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 27,
+      "id_db": "ee2d8217-5564-442b-8a03-fe7a8f142e42",
+      "id": 1650762676600
+    },
+    {
+      "CD_PRODUTO": 5,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 21,
+      "id_db": "c24c1cab-6010-44a0-9347-5250f09fbfe4",
+      "id": 1650762676600
+    },
+    {
+      "CD_PRODUTO": 6,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 49,
+      "id_db": "d255109c-7171-4c90-86ee-ca5a5acdce5d",
+      "id": 1650762676601
+    },
+    {
+      "CD_PRODUTO": 6,
+      "CD_FORNCEDOR": 6,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 40,
+      "id_db": "b0f0b291-a823-4db2-9aa6-8600cfb35a72",
+      "id": 1650762676601
+    },
+    {
+      "CD_PRODUTO": 6,
+      "CD_FORNCEDOR": 9,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 29,
+      "id_db": "c5480626-31ba-4720-a379-4f001498425e",
+      "id": 1650762676602
+    },
+    {
+      "CD_PRODUTO": 6,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 31,
+      "id_db": "718a4c5c-fa56-4045-89d2-5740cd6a4588",
+      "id": 1650762676603
+    },
+    {
+      "CD_PRODUTO": 7,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 31,
+      "id_db": "5ac814d9-e5e5-4144-a60f-7173cd47c467",
+      "id": 1650762676603
+    },
+    {
+      "CD_PRODUTO": 7,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 34,
+      "id_db": "0f872bd2-f0c4-41e7-a002-298a625439eb",
+      "id": 1650762676604
+    },
+    {
+      "CD_PRODUTO": 7,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 34,
+      "id_db": "6a78d26e-dac2-4379-a727-25c061a4037f",
+      "id": 1650762676604
+    },
+    {
+      "CD_PRODUTO": 7,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 20,
+      "id_db": "3052859c-eac9-429d-b4df-aecba8b4ec9b",
+      "id": 1650762676605
+    },
+    {
+      "CD_PRODUTO": 8,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F9",
+      "VALOR_UNITARIO": 22,
+      "id_db": "88652c79-b0da-49de-a9eb-9829a1f7d8f8",
+      "id": 1650762676605
+    },
+    {
+      "CD_PRODUTO": 8,
+      "CD_FORNCEDOR": 1,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 13,
+      "id_db": "30223158-9c1f-48d0-939d-19e846464760",
+      "id": 1650762676605
+    },
+    {
+      "CD_PRODUTO": 8,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 21,
+      "id_db": "a5c5b459-5f16-4593-9569-d902b63b0c65",
+      "id": 1650762676606
+    },
+    {
+      "CD_PRODUTO": 8,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 41,
+      "id_db": "16ab4b0e-4864-4f07-8f9b-21193e4b8dc0",
+      "id": 1650762676606
+    },
+    {
+      "CD_PRODUTO": 9,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 11,
+      "id_db": "289be142-a8d7-4f8f-82c0-9f44a7b044a3",
+      "id": 1650762676606
+    },
+    {
+      "CD_PRODUTO": 9,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F9",
+      "VALOR_UNITARIO": 17,
+      "id_db": "a9099c76-94d7-4455-ba5b-b6f1e964516d",
+      "id": 1650762676606
+    },
+    {
+      "CD_PRODUTO": 9,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 33,
+      "id_db": "888f8590-c2f0-4572-a855-e55e3de538ac",
+      "id": 1650762676607
+    },
+    {
+      "CD_PRODUTO": 9,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 36,
+      "id_db": "1e663d3f-4653-44b9-9eab-3f356f7d360a",
+      "id": 1650762676608
+    },
+    {
+      "CD_PRODUTO": 10,
+      "CD_FORNCEDOR": 9,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 35,
+      "id_db": "49416029-67a6-4397-b36c-5a78b94cd5ea",
+      "id": 1650762676608
+    },
+    {
+      "CD_PRODUTO": 10,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 34,
+      "id_db": "f1687751-aec1-40c8-9116-6af396d7126c",
+      "id": 1650762676609
+    },
+    {
+      "CD_PRODUTO": 10,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 33,
+      "id_db": "dcefb6b7-310f-4760-aba6-847f2e2fc830",
+      "id": 1650762676609
+    },
+    {
+      "CD_PRODUTO": 10,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 22,
+      "id_db": "94f3b7e4-4e1d-4d49-9177-3804e51c39ac",
+      "id": 1650762676609
+    },
+    {
+      "CD_PRODUTO": 11,
+      "CD_FORNCEDOR": 9,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 34,
+      "id_db": "6d5e6990-037c-44a3-ae81-92daf8aff073",
+      "id": 1650762676610
+    },
+    {
+      "CD_PRODUTO": 11,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 34,
+      "id_db": "192929e0-1978-48b0-a2b7-0e2c75eeb714",
+      "id": 1650762676610
+    },
+    {
+      "CD_PRODUTO": 11,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 34,
+      "id_db": "4668abd9-bc96-4893-a411-9b20cc0d50a9",
+      "id": 1650762676610
+    },
+    {
+      "CD_PRODUTO": 11,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 43,
+      "id_db": "162437a6-9e00-471c-ab14-451a31adce9c",
+      "id": 1650762676611
+    },
+    {
+      "CD_PRODUTO": 12,
+      "CD_FORNCEDOR": 1,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 10,
+      "id_db": "f5da8b33-adfc-468e-ad18-3c0f241feb79",
+      "id": 1650762676611
+    },
+    {
+      "CD_PRODUTO": 12,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 17,
+      "id_db": "d575a4d9-ab7d-4e51-80fb-b9858699e640",
+      "id": 1650762676611
+    },
+    {
+      "CD_PRODUTO": 12,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 16,
+      "id_db": "1362298f-319a-4bdd-b3aa-b64233cc5d63",
+      "id": 1650762676612
+    },
+    {
+      "CD_PRODUTO": 12,
+      "CD_FORNCEDOR": 1,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 29,
+      "id_db": "2f6093f0-ae64-4408-a021-d9b42f3d5e90",
+      "id": 1650762676612
+    },
+    {
+      "CD_PRODUTO": 13,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 17,
+      "id_db": "f737a2e8-88fd-4af6-8b49-e1fd685c4a3c",
+      "id": 1650762676612
+    },
+    {
+      "CD_PRODUTO": 13,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 24,
+      "id_db": "15f48eec-a585-40be-ae2b-ae55daa03d7f",
+      "id": 1650762676613
+    },
+    {
+      "CD_PRODUTO": 13,
+      "CD_FORNCEDOR": 6,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 10,
+      "id_db": "7df7502f-227e-4076-8c1d-310cf689a858",
+      "id": 1650762676613
+    },
+    {
+      "CD_PRODUTO": 13,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 19,
+      "id_db": "5fa892c3-2cb6-44a2-8a07-44d4d9d2034c",
+      "id": 1650762676614
+    },
+    {
+      "CD_PRODUTO": 14,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 39,
+      "id_db": "20bd3b40-db2e-486e-9502-a45e56dab60d",
+      "id": 1650762676615
+    },
+    {
+      "CD_PRODUTO": 14,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 37,
+      "id_db": "eecd11cd-58e2-4842-bc7c-a26b7a0ac3f6",
+      "id": 1650762676615
+    },
+    {
+      "CD_PRODUTO": 14,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 33,
+      "id_db": "f7e08547-b83d-42e0-bc18-febb84ec622f",
+      "id": 1650762676616
+    },
+    {
+      "CD_PRODUTO": 14,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 44,
+      "id_db": "392bd735-dee2-4ac2-ac01-4def34b7bae0",
+      "id": 1650762676616
+    },
+    {
+      "CD_PRODUTO": 15,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 37,
+      "id_db": "64cad068-bd3d-4428-b1f4-4c7bdc4a2212",
+      "id": 1650762676618
+    },
+    {
+      "CD_PRODUTO": 15,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 35,
+      "id_db": "103b4987-8a77-46e2-8907-216c00a0104f",
+      "id": 1650762676619
+    },
+    {
+      "CD_PRODUTO": 15,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 15,
+      "id_db": "bf6912e0-7bf2-44fc-8a76-7c5d51b055d7",
+      "id": 1650762676619
+    },
+    {
+      "CD_PRODUTO": 15,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 38,
+      "id_db": "79fcd889-5476-4c03-8ec2-fd5a4a7879bc",
+      "id": 1650762676620
+    },
+    {
+      "CD_PRODUTO": 16,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 49,
+      "id_db": "dc912758-b6c6-4494-8eb2-36b8f763ee77",
+      "id": 1650762676621
+    },
+    {
+      "CD_PRODUTO": 16,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 21,
+      "id_db": "dd24a42a-c29e-4e10-a711-d1dcb00b3c0b",
+      "id": 1650762676621
+    },
+    {
+      "CD_PRODUTO": 16,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 47,
+      "id_db": "39014d45-868e-43e9-be32-10c551ca7863",
+      "id": 1650762676622
+    },
+    {
+      "CD_PRODUTO": 16,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F9",
+      "VALOR_UNITARIO": 27,
+      "id_db": "93e7a5e7-7823-48b6-b2e6-1815d401e96a",
+      "id": 1650762676622
+    },
+    {
+      "CD_PRODUTO": 17,
+      "CD_FORNCEDOR": 6,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 46,
+      "id_db": "b2809f17-6191-4a52-be1c-c504159e54d5",
+      "id": 1650762676623
+    },
+    {
+      "CD_PRODUTO": 17,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 26,
+      "id_db": "467f0075-f8ba-44f1-a436-23126785b971",
+      "id": 1650762676623
+    },
+    {
+      "CD_PRODUTO": 17,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 24,
+      "id_db": "43d20999-9bf2-4841-95de-f80dafa263ec",
+      "id": 1650762676624
+    },
+    {
+      "CD_PRODUTO": 17,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 15,
+      "id_db": "061ec0ae-18ba-445c-9d00-d73a2fdb0677",
+      "id": 1650762676624
+    },
+    {
+      "CD_PRODUTO": 18,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 42,
+      "id_db": "37c67f2d-4a86-4009-8842-e5e7e61fa584",
+      "id": 1650762676624
+    },
+    {
+      "CD_PRODUTO": 18,
+      "CD_FORNCEDOR": 9,
+      "DS_PRODUTO_FORNECEDOR": "DESC F9",
+      "VALOR_UNITARIO": 50,
+      "id_db": "680fb5da-159a-4f85-a7b1-c76320239868",
+      "id": 1650762676625
+    },
+    {
+      "CD_PRODUTO": 18,
+      "CD_FORNCEDOR": 9,
+      "DS_PRODUTO_FORNECEDOR": "DESC F9",
+      "VALOR_UNITARIO": 16,
+      "id_db": "9c661cc8-3898-44fb-bf5e-52f599548f03",
+      "id": 1650762676625
+    },
+    {
+      "CD_PRODUTO": 18,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 18,
+      "id_db": "50bd34fd-f96b-43f0-bfb7-250487637a24",
+      "id": 1650762676626
+    },
+    {
+      "CD_PRODUTO": 19,
+      "CD_FORNCEDOR": 1,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 48,
+      "id_db": "fe19cf95-1f4f-47c3-91d3-42a8e187e672",
+      "id": 1650762676626
+    },
+    {
+      "CD_PRODUTO": 19,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 12,
+      "id_db": "f2259d87-338b-4280-b682-571412e2b7e3",
+      "id": 1650762676627
+    },
+    {
+      "CD_PRODUTO": 19,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 32,
+      "id_db": "f31af601-e358-4b75-8e4a-13ddd6dab314",
+      "id": 1650762676627
+    },
+    {
+      "CD_PRODUTO": 19,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 21,
+      "id_db": "fa9565c3-dba7-4a0f-acc0-effd4546a5d5",
+      "id": 1650762676628
+    },
+    {
+      "CD_PRODUTO": 20,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 13,
+      "id_db": "d1a6503f-ad64-4882-b660-d1f2c9bbfb14",
+      "id": 1650762676628
+    },
+    {
+      "CD_PRODUTO": 20,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 35,
+      "id_db": "176260b7-be93-44e8-90c4-22cdc692aa2e",
+      "id": 1650762676629
+    },
+    {
+      "CD_PRODUTO": 20,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 41,
+      "id_db": "ad0413ba-e7e3-443f-85ef-ebe5572e53a9",
+      "id": 1650762676629
+    },
+    {
+      "CD_PRODUTO": 20,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F4",
+      "VALOR_UNITARIO": 13,
+      "id_db": "26d3c705-0396-4fdc-ac07-688f8f34e8b7",
+      "id": 1650762676629
+    },
+    {
+      "CD_PRODUTO": 21,
+      "CD_FORNCEDOR": 6,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 39,
+      "id_db": "506e0c2a-9a09-418b-815e-aa0af136f70b",
+      "id": 1650762676630
+    },
+    {
+      "CD_PRODUTO": 21,
+      "CD_FORNCEDOR": 1,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 12,
+      "id_db": "7c422d43-3960-4973-9ae6-b9eaf514d37a",
+      "id": 1650762676630
+    },
+    {
+      "CD_PRODUTO": 21,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 21,
+      "id_db": "91a4ec18-d9b6-48c7-90e6-01d2e100256a",
+      "id": 1650762676631
+    },
+    {
+      "CD_PRODUTO": 21,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 45,
+      "id_db": "61d34768-97eb-4e61-8aff-d0f72445f334",
+      "id": 1650762676631
+    },
+    {
+      "CD_PRODUTO": 22,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 14,
+      "id_db": "1d55d011-42eb-48b6-a2ff-7cbf4a6708b3",
+      "id": 1650762676632
+    },
+    {
+      "CD_PRODUTO": 22,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 30,
+      "id_db": "70ff41d7-ebf4-4b9f-9aec-3648200524ff",
+      "id": 1650762676632
+    },
+    {
+      "CD_PRODUTO": 22,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 21,
+      "id_db": "d2133361-b523-4aca-9eb0-fb7593bc29ee",
+      "id": 1650762676633
+    },
+    {
+      "CD_PRODUTO": 22,
+      "CD_FORNCEDOR": 1,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 31,
+      "id_db": "40d63b53-29b5-4ba4-8739-c271258f1f88",
+      "id": 1650762676633
+    },
+    {
+      "CD_PRODUTO": 23,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 15,
+      "id_db": "05b79b8d-69d3-42de-a3e4-b5d4b5fb3b81",
+      "id": 1650762676634
+    },
+    {
+      "CD_PRODUTO": 23,
+      "CD_FORNCEDOR": 1,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 44,
+      "id_db": "5fb098da-0a5c-4f07-8869-cace4e2a9ab1",
+      "id": 1650762676635
+    },
+    {
+      "CD_PRODUTO": 23,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 47,
+      "id_db": "e60c8d9c-105f-4a82-bc4e-8c4c60a48720",
+      "id": 1650762676635
+    },
+    {
+      "CD_PRODUTO": 23,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F4",
+      "VALOR_UNITARIO": 49,
+      "id_db": "87dd613a-a784-452c-836f-4304f88fbc12",
+      "id": 1650762676636
+    },
+    {
+      "CD_PRODUTO": 24,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 18,
+      "id_db": "d902e057-5bea-49bf-baf8-a56386f91629",
+      "id": 1650762676637
+    },
+    {
+      "CD_PRODUTO": 24,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F4",
+      "VALOR_UNITARIO": 33,
+      "id_db": "e0ca6f53-3cd9-4553-aa9c-64a9e194524e",
+      "id": 1650762676638
+    },
+    {
+      "CD_PRODUTO": 24,
+      "CD_FORNCEDOR": 1,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 38,
+      "id_db": "d41464e8-b91d-4a9e-90ab-51141718abaf",
+      "id": 1650762676638
+    },
+    {
+      "CD_PRODUTO": 24,
+      "CD_FORNCEDOR": 6,
+      "DS_PRODUTO_FORNECEDOR": "DESC F6",
+      "VALOR_UNITARIO": 37,
+      "id_db": "bcce8e80-da77-4a51-a07c-c08a3e6053ed",
+      "id": 1650762676639
+    },
+    {
+      "CD_PRODUTO": 25,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 45,
+      "id_db": "39bf756e-08dc-4103-9657-c87736997b73",
+      "id": 1650762676639
+    },
+    {
+      "CD_PRODUTO": 25,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 33,
+      "id_db": "0f27e7d6-2c99-49ac-8bac-102483e4e05d",
+      "id": 1650762676640
+    },
+    {
+      "CD_PRODUTO": 25,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F4",
+      "VALOR_UNITARIO": 40,
+      "id_db": "ee4ba967-2b5a-4499-9f44-ae9be211c1c8",
+      "id": 1650762676640
+    },
+    {
+      "CD_PRODUTO": 25,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 49,
+      "id_db": "1a42ab4c-5539-44aa-905d-15192a190270",
+      "id": 1650762676641
+    },
+    {
+      "CD_PRODUTO": 26,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 40,
+      "id_db": "99fb9812-7fe4-4686-aeec-cd68fce6f62c",
+      "id": 1650762676641
+    },
+    {
+      "CD_PRODUTO": 26,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 40,
+      "id_db": "674331ed-707c-40ff-a83f-c0db223a486b",
+      "id": 1650762676642
+    },
+    {
+      "CD_PRODUTO": 26,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 14,
+      "id_db": "49518050-39c1-4b5b-99b3-4ec2ade22b84",
+      "id": 1650762676643
+    },
+    {
+      "CD_PRODUTO": 26,
+      "CD_FORNCEDOR": 7,
+      "DS_PRODUTO_FORNECEDOR": "DESC F7",
+      "VALOR_UNITARIO": 30,
+      "id_db": "27279465-7f34-4fa1-87c8-a3749709af6c",
+      "id": 1650762676643
+    },
+    {
+      "CD_PRODUTO": 27,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 32,
+      "id_db": "7419045a-f890-4f9e-b203-5fdd6b901c55",
+      "id": 1650762676644
+    },
+    {
+      "CD_PRODUTO": 27,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 22,
+      "id_db": "c17050f1-80c1-4c87-aade-ba6a6e379962",
+      "id": 1650762676644
+    },
+    {
+      "CD_PRODUTO": 27,
+      "CD_FORNCEDOR": 2,
+      "DS_PRODUTO_FORNECEDOR": "DESC F2",
+      "VALOR_UNITARIO": 49,
+      "id_db": "8d44339f-1e03-4daf-95b1-45b3bafde94c",
+      "id": 1650762676645
+    },
+    {
+      "CD_PRODUTO": 27,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 41,
+      "id_db": "2b0c5361-596d-4490-a1bf-25828c229156",
+      "id": 1650762676646
+    },
+    {
+      "CD_PRODUTO": 28,
+      "CD_FORNCEDOR": 3,
+      "DS_PRODUTO_FORNECEDOR": "DESC F3",
+      "VALOR_UNITARIO": 23,
+      "id_db": "80871480-0d85-4ea8-abe7-20769ea79894",
+      "id": 1650762676646
+    },
+    {
+      "CD_PRODUTO": 28,
+      "CD_FORNCEDOR": 8,
+      "DS_PRODUTO_FORNECEDOR": "DESC F8",
+      "VALOR_UNITARIO": 46,
+      "id_db": "088c4875-c757-4c6c-b7e4-4e2990f167a3",
+      "id": 1650762676647
+    },
+    {
+      "CD_PRODUTO": 28,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 31,
+      "id_db": "af9d9319-9176-4cf4-8345-9cf4451d8a1e",
+      "id": 1650762676648
+    },
+    {
+      "CD_PRODUTO": 28,
+      "CD_FORNCEDOR": 5,
+      "DS_PRODUTO_FORNECEDOR": "DESC F5",
+      "VALOR_UNITARIO": 22,
+      "id_db": "5cd283b7-be8e-4c56-9463-9ea3bfdd4f6c",
+      "id": 1650762676649
+    },
+    {
+      "CD_PRODUTO": 29,
+      "CD_FORNCEDOR": 1,
+      "DS_PRODUTO_FORNECEDOR": "DESC F1",
+      "VALOR_UNITARIO": 35,
+      "id_db": "8b9f08bd-5cc3-4576-8028-37bf6a2df1a5",
+      "id": 1650762676650
+    },
+    {
+      "CD_PRODUTO": 29,
+      "CD_FORNCEDOR": 4,
+      "DS_PRODUTO_FORNECEDOR": "DESC F4",
+      "VALOR_UNITARIO": 50,
+      "id_db": "c4066d5d-330d-4ce0-9198-644dd9bf0a05",
+      "id": 1650762676651
+    },
+    {
+      "CD_PRODUTO": 29,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 36,
+      "id_db": "910c36a2-1c6c-4084-876d-ad8d63d3c25f",
+      "id": 1650762676652
+    },
+    {
+      "CD_PRODUTO": 29,
+      "CD_FORNCEDOR": 10,
+      "DS_PRODUTO_FORNECEDOR": "DESC F10",
+      "VALOR_UNITARIO": 13,
+      "id_db": "a8d470cc-4551-4a86-b02f-bf63d0a1f67d",
+      "id": 1650762676652
+    }
+  ]
+}

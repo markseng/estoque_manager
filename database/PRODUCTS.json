@@ -1,0 +1,323 @@
+{
+  "PRODUCTS": [
+    {
+      "CODIGO": 1,
+      "DESCRICAO": "DESC 1",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 2,
+      "ESTOQUE_MAXIMO": 10,
+      "CATEGORIA": "C1",
+      "id_db": "13d45080-bba7-483f-a32c-06d09f1a5b91",
+      "id": 1650762670528
+    },
+    {
+      "CODIGO": 2,
+      "DESCRICAO": "DESC 2",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 3,
+      "ESTOQUE_MAXIMO": 11,
+      "CATEGORIA": "C2",
+      "id_db": "da33bf8c-b3f7-4e0f-a75b-5d6e2240f44c",
+      "id": 1650762670532
+    },
+    {
+      "CODIGO": 3,
+      "DESCRICAO": "DESC 3",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 4,
+      "ESTOQUE_MAXIMO": 12,
+      "CATEGORIA": "C3",
+      "id_db": "dd32a0cf-a6a0-4939-8baa-b9816b8b0d50",
+      "id": 1650762670533
+    },
+    {
+      "CODIGO": 4,
+      "DESCRICAO": "DESC 4",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 5,
+      "ESTOQUE_MAXIMO": 13,
+      "CATEGORIA": "C4",
+      "id_db": "459b9584-71f4-43d5-9660-c3ffb0e8d561",
+      "id": 1650762670533
+    },
+    {
+      "CODIGO": 5,
+      "DESCRICAO": "DESC 5",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 3,
+      "ESTOQUE_MINIMO": 6,
+      "ESTOQUE_MAXIMO": 14,
+      "CATEGORIA": "C5",
+      "id_db": "ede20c5f-2637-4dcc-9e09-f03d152efe00",
+      "id": 1650762670534
+    },
+    {
+      "CODIGO": 6,
+      "DESCRICAO": "DESC 6",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 7,
+      "ESTOQUE_MAXIMO": 15,
+      "CATEGORIA": "C6",
+      "id_db": "a5dbd8c8-d72e-4e19-a5c2-07eaaa117784",
+      "id": 1650762670534
+    },
+    {
+      "CODIGO": 7,
+      "DESCRICAO": "DESC 7",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 8,
+      "ESTOQUE_MAXIMO": 16,
+      "CATEGORIA": "C7",
+      "id_db": "37feed67-ba53-4390-a128-53187c378754",
+      "id": 1650762670536
+    },
+    {
+      "CODIGO": 8,
+      "DESCRICAO": "DESC 8",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 9,
+      "ESTOQUE_MAXIMO": 17,
+      "CATEGORIA": "C8",
+      "id_db": "349d49a1-fd91-4041-b96a-8df3e84634dc",
+      "id": 1650762670536
+    },
+    {
+      "CODIGO": 9,
+      "DESCRICAO": "DESC 9",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 10,
+      "ESTOQUE_MAXIMO": 18,
+      "CATEGORIA": "C9",
+      "id_db": "03a84490-0edb-44a4-a479-d5bba15c01e6",
+      "id": 1650762670537
+    },
+    {
+      "CODIGO": 10,
+      "DESCRICAO": "DESC 10",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 11,
+      "ESTOQUE_MAXIMO": 19,
+      "CATEGORIA": "C10",
+      "id_db": "1536b14c-5b6f-4524-a11c-13df49318ad0",
+      "id": 1650762670537
+    },
+    {
+      "CODIGO": 11,
+      "DESCRICAO": "DESC 11",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 12,
+      "ESTOQUE_MAXIMO": 20,
+      "CATEGORIA": "C11",
+      "id_db": "de4c1f2c-fd73-4b72-996f-d4b34ba914a5",
+      "id": 1650762670540
+    },
+    {
+      "CODIGO": 12,
+      "DESCRICAO": "DESC 12",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 3,
+      "ESTOQUE_MINIMO": 13,
+      "ESTOQUE_MAXIMO": 21,
+      "CATEGORIA": "C12",
+      "id_db": "c87bdeba-2f82-4454-9818-6dd7da6cf98a",
+      "id": 1650762670540
+    },
+    {
+      "CODIGO": 13,
+      "DESCRICAO": "DESC 13",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 14,
+      "ESTOQUE_MAXIMO": 22,
+      "CATEGORIA": "C13",
+      "id_db": "bdb516e9-bda1-4cb5-8e01-e154b7bba3e1",
+      "id": 1650762670541
+    },
+    {
+      "CODIGO": 14,
+      "DESCRICAO": "DESC 14",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 15,
+      "ESTOQUE_MAXIMO": 23,
+      "CATEGORIA": "C14",
+      "id_db": "953766af-81a3-4104-9a31-0ee1a842d509",
+      "id": 1650762670541
+    },
+    {
+      "CODIGO": 15,
+      "DESCRICAO": "DESC 15",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 16,
+      "ESTOQUE_MAXIMO": 24,
+      "CATEGORIA": "C15",
+      "id_db": "4608aaaf-5b7e-4204-a5c6-c4ed36066e8a",
+      "id": 1650762670541
+    },
+    {
+      "CODIGO": 16,
+      "DESCRICAO": "DESC 16",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 17,
+      "ESTOQUE_MAXIMO": 25,
+      "CATEGORIA": "C16",
+      "id_db": "6014042c-5b4e-4200-8bf0-2476ce63e576",
+      "id": 1650762670542
+    },
+    {
+      "CODIGO": 17,
+      "DESCRICAO": "DESC 17",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 18,
+      "ESTOQUE_MAXIMO": 26,
+      "CATEGORIA": "C17",
+      "id_db": "7e9f6c12-4c15-4eed-b2b1-201f2024bbae",
+      "id": 1650762670542
+    },
+    {
+      "CODIGO": 18,
+      "DESCRICAO": "DESC 18",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 3,
+      "ESTOQUE_MINIMO": 19,
+      "ESTOQUE_MAXIMO": 27,
+      "CATEGORIA": "C18",
+      "id_db": "38fe625b-5c7a-42fb-9587-0ff94412222d",
+      "id": 1650762670542
+    },
+    {
+      "CODIGO": 19,
+      "DESCRICAO": "DESC 19",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 20,
+      "ESTOQUE_MAXIMO": 28,
+      "CATEGORIA": "C19",
+      "id_db": "1fb86738-33e0-4a98-a2b8-35b87cbe4d18",
+      "id": 1650762670543
+    },
+    {
+      "CODIGO": 20,
+      "DESCRICAO": "DESC 20",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 21,
+      "ESTOQUE_MAXIMO": 29,
+      "CATEGORIA": "C20",
+      "id_db": "b4d78ee3-2d63-4781-887c-fb6681f7b300",
+      "id": 1650762670544
+    },
+    {
+      "CODIGO": 21,
+      "DESCRICAO": "DESC 21",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 3,
+      "ESTOQUE_MINIMO": 22,
+      "ESTOQUE_MAXIMO": 30,
+      "CATEGORIA": "C21",
+      "id_db": "03087041-f2e0-4742-a150-c511fdeba78e",
+      "id": 1650762670544
+    },
+    {
+      "CODIGO": 22,
+      "DESCRICAO": "DESC 22",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 3,
+      "ESTOQUE_MINIMO": 23,
+      "ESTOQUE_MAXIMO": 31,
+      "CATEGORIA": "C22",
+      "id_db": "73e6ae32-71d5-44d9-b964-4ea2e1a9f02c",
+      "id": 1650762670545
+    },
+    {
+      "CODIGO": 23,
+      "DESCRICAO": "DESC 23",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 24,
+      "ESTOQUE_MAXIMO": 32,
+      "CATEGORIA": "C23",
+      "id_db": "185b17b0-dd8d-43b0-81fd-4488b049c6ca",
+      "id": 1650762670546
+    },
+    {
+      "CODIGO": 24,
+      "DESCRICAO": "DESC 24",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 25,
+      "ESTOQUE_MAXIMO": 33,
+      "CATEGORIA": "C24",
+      "id_db": "f5f8bf76-bbe2-4587-b0a4-41504fe60e8f",
+      "id": 1650762670546
+    },
+    {
+      "CODIGO": 25,
+      "DESCRICAO": "DESC 25",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 26,
+      "ESTOQUE_MAXIMO": 34,
+      "CATEGORIA": "C25",
+      "id_db": "62464e97-ca18-4eb7-ad22-0700a2c6781d",
+      "id": 1650762670547
+    },
+    {
+      "CODIGO": 26,
+      "DESCRICAO": "DESC 26",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 27,
+      "ESTOQUE_MAXIMO": 35,
+      "CATEGORIA": "C26",
+      "id_db": "91f46db6-a91d-4b01-b00c-bc2891ce8876",
+      "id": 1650762670547
+    },
+    {
+      "CODIGO": 27,
+      "DESCRICAO": "DESC 27",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 28,
+      "ESTOQUE_MAXIMO": 36,
+      "CATEGORIA": "C27",
+      "id_db": "cad8c33b-3ca1-4c63-8e51-9055742712e0",
+      "id": 1650762670548
+    },
+    {
+      "CODIGO": 28,
+      "DESCRICAO": "DESC 28",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 2,
+      "ESTOQUE_MINIMO": 29,
+      "ESTOQUE_MAXIMO": 37,
+      "CATEGORIA": "C28",
+      "id_db": "7048c09f-d81e-413a-8579-67407a2c7075",
+      "id": 1650762670549
+    },
+    {
+      "CODIGO": 29,
+      "DESCRICAO": "DESC 29",
+      "UNIDADE_DE_MEDIDA": "UN",
+      "SAIDA_PADRAO": 1,
+      "ESTOQUE_MINIMO": 30,
+      "ESTOQUE_MAXIMO": 38,
+      "CATEGORIA": "C29",
+      "id_db": "f371413a-04ea-480b-a7cd-7d0747f9d932",
+      "id": 1650762670551
+    }
+  ]
+}
